@@ -1,0 +1,11 @@
+{
+  "name": "Codevixens Academy - A Female Focused Tech Academy",
+  "short_name": "CdvAcademy",
+  "icons": [
+    { "src": "/img/favicon/color-3/Favicon.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/img/favicon/color-3/Favicon.png", "type": "image/png", "sizes": "512x512" }
+  ],
+  "theme_color": "#efefef",
+  "background_color": "#efefef",
+  "display": "standalone"
+}
